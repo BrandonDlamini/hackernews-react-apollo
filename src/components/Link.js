@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 
 class Link extends Component{
-    rednder(){
+    render(){
         return(
             <div>
                 <div>
