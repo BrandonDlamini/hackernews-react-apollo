@@ -17,7 +17,7 @@ const FEED_QUERY = gql`
         }
         votes {
           id
-          user{
+          user {
             id
           }
         }
